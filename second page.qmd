@@ -1,0 +1,18 @@
+---
+title: "My second page"
+output:
+  quarto::quarto_html:
+    toc: true
+---
+
+```{r}
+library(reactable)
+```
+
+```{r}
+reactable(iris)
+```
+
+```{r}
+plot(iris)
+```
