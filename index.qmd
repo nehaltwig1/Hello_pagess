@@ -1,0 +1,36 @@
+---
+title: "My first page"
+output:
+  quarto::quarto_html:
+    toc: true
+---
+
+---
+
+
+```{r}
+library(reactable)
+```
+```{r}
+
+
+```{r}
+install.packages("reactable")
+
+```
+
+```{r}
+library(reactable)
+
+```
+```{r}
+library(reactable)
+```
+
+```{r}
+reactable(infert)
+```
+```{r}
+plot(women)
+```
+
